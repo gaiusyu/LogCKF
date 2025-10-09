@@ -1,7 +1,7 @@
 # LogCKF: Enhancing Log-based Fault Diagnosis with LLM through Contrastive Knowledge Refinement
 ### Artifact for WWW'26 Industry Submission
 
-We sincerely thank the Artifact Evaluation Committee for their time and expertise in reviewing our work. 
+We sincerely thank the Program Committe/ Artifact Evaluation Committee/ Reviewers for their time and expertise in reviewing our work. 
 
 ---
 
