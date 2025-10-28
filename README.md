@@ -67,7 +67,7 @@ For each of the main scripts (`logCKF.py`, `evolution.py`, `Direct_dataset1_llm.
         INTERNAL_LLM_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxx" # Your OpenAI API Key
         MODEL_NAME = "gpt-4-turbo-preview" # A model you have access to
 
-## 3. Reproducing Key Results (RQ3: Ablation Study on LogKG)
+## 3. Reproducing Key Results (RQ3: Ablation Study on LogCKF)
 
 The main script, `logCKF.py`, runs the ablation study on the **LogKG dataset**. The results for each run are saved in a timestamped directory (e.g., `results_hierarchical_framework_...`).
 
